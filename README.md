@@ -44,7 +44,7 @@
 
 ### 🧭 Where to Find Me
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?logo=tryhackme)](https://tryhackme.com/p/OGxploit)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?logo=tryhackme)](https://tryhackme.com/p/OGxploit.exe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/OGxploit)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/OGxploit)
 
